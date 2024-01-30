@@ -16,4 +16,6 @@ sudo docker-compose up -d
 Once you run the container, you will see a Jupyter notebook installed with Modern QDK, running on http://localhost:8888.
 
 
+
+
 Have fun!
