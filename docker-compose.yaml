@@ -1,7 +1,7 @@
 version: "1.0"  
 
 services:
-  quantum-app:
+  qsharp:
     build: .
     image: elijun999/QSharp
     ports:
