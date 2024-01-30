@@ -1,6 +1,10 @@
 # QSharp
 
-This repo contains a Dockerfile, which builds Docker image with the the Azure Quantum Development Kit (Modern QDK) tutorial.
+This repository provides a Dockerfile for running the Azure Quantum Development Kit (Modern QDK).
+
+## Prerequisites
+
+Ensure you have Docker installed on your system. Refer to the official installation instructions (https://docs.docker.com/manuals/) for your operating system.
 
 ## Usage
 
