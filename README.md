@@ -15,7 +15,7 @@ git clone https://github.com/elijun999/QSharp
 
 2. Run the container (with docker-compose)
 ```
-sudo docker compose up -d
+docker compose up -d
 ```
 Once you run the container, you will see a Jupyter notebook installed with Modern QDK, running on http://localhost:8888.
 
