@@ -1,4 +1,4 @@
-# QSharp
+# QSharp-Dockerfile
 
 This repository provides a Dockerfile for running the Azure Quantum Development Kit (Modern QDK).
 
