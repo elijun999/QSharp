@@ -5,6 +5,4 @@ services:
     build: .
     image: elijun999/QSharp
     ports:
-      - "8888:8888"  
-    volumes:
-      - .:/app 
+      - "8888:8888" 
