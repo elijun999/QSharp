@@ -1,0 +1,10 @@
+version: "3.8"  
+
+services:
+  quantum-app:
+    build: .  # Build the image from the current directory
+    image: jupyter
+    ports:
+      - "8888:8889"  
+    volumes:
+      - .:/app 
