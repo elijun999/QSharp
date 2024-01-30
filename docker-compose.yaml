@@ -1,8 +1,8 @@
 version: "1.0"  
 services:
   jupyter:
-    build: .  # Build the image from the current directory
-#    image: jupyter
+    build: . 
+    image: elijun999/QSharp
     ports:
       - "8888:8888"  
     volumes:
