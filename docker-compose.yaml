@@ -2,7 +2,6 @@ version: "1.0"
 
 services:
   qsharp:
-    build: .
     image: elijun999/QSharp
     ports:
       - "8888:8888" 
