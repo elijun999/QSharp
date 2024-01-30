@@ -1,0 +1,10 @@
+version: "1.0"  
+
+services:
+  quantum-app:
+    build: .
+    image: elijun999/QSharp
+    ports:
+      - "8888:8889"  
+    volumes:
+      - .:/app 
